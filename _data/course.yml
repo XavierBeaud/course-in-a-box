@@ -140,3 +140,6 @@ signups:
  - name: Alvar Maciel
    image: https://pbs.twimg.com/profile_images/378800000119378128/9487f620fd1e8a5a459f34cb39ab946a_400x400.jpeg
    twitter: amaciel
+ - name: Xavier Beaud
+   image: http://www.gravatar.com/avatar/72d2525ba9425a8c4ba9318a1c4e9a4d.png
+   twitter: xavierbeaud
